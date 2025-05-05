@@ -12,9 +12,11 @@ The main directory includes separate folders for each project, each with its own
 
 - **NatureBoost**: Contains sample size calculations and power analyses for the "NatureBoost" project, which studies the effects of nature-based interventions on sleep quality and well-being in long-term care settings.
 
-- **MindfulPolice**: Contains sample size calculations and power analysis for the "MindfulPolice" project, which studies the effect of a customized mindfulness-baed intervention on diverse officer-relevant outcomes.
+- **MindfulPolice**: Contains sample size calculations and power analysis for the "MindfulPolice" project, which studies the effect of a customized mindfulness-based intervention on diverse officer-relevant outcomes.
 
-- **ECO_IMBACT**: Contains sample size calculations and power analysis for the "ECO-IMBACT" project, which studies the effect of biodynamic diet in children.
+- **ECO_IMBACT**: Contains sample size calculations and power analysis for the "ECO-IMBACT" project, which studies the effect of a biodynamic diet in children.
+
+- **ReMIND-Gut**: Contains sample size and power analyses for the "ReMIND-Gut" project (*Regulating the Microbiome and Inflammation via Meditation*), a randomized controlled trial investigating the impact of meditation on short-chain fatty acids (SCFAs), inflammation, and gut-brain interactions in healthy adults.
 
 Each project folder contains relevant scripts and documentation on the methodology, calculations, and results.
 
