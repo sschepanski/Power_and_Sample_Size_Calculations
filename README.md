@@ -18,6 +18,8 @@ The main directory includes separate folders for each project, each with its own
 
 - **ReMIND-Gut**: Contains sample size and power analyses for the "ReMIND-Gut" project (*Regulating the Microbiome and Inflammation via Meditation*), a randomized controlled trial investigating the impact of meditation on short-chain fatty acids (SCFAs), inflammation, and gut-brain interactions in healthy adults.
 
+- **MindSpaceOne 2.0**: Contains power and sample size calculations for the "MindSpaceOne 2.0" study, a two-arm pilot trial investigating the effects of brief daily meditation on gut microbiome and psychological outcomes in healthy participants.
+
 Each project folder contains relevant scripts and documentation on the methodology, calculations, and results.
 
 ## Getting Started
