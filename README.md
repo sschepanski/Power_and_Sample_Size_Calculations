@@ -20,6 +20,8 @@ The main directory includes separate folders for each project, each with its own
 
 - **MindSpaceOne 2.0**: Contains power and sample size calculations for the "MindSpaceOne 2.0" study, a two-arm pilot trial investigating the effects of brief daily meditation on gut microbiome and psychological outcomes in healthy participants.
 
+- **GOODSENSE**: Contains sample size calculations for the "GOODSENSE" study, comparing the diagnostic properties of the CDDC(R) compared with CT for lung cancer.
+
 Each project folder contains relevant scripts and documentation on the methodology, calculations, and results.
 
 ## Getting Started
