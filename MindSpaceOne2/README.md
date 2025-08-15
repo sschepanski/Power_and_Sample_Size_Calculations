@@ -36,4 +36,4 @@ For questions or further information about this project, please contact Dr. Stev
 
 ---
 
-This repository aims to ensure transparency and reproducibility in sample size planning for the ReMIND-Gut trial, supporting the rigorous evaluation of meditation-based interventions on gut-brain health.
+This repository aims to ensure transparency and reproducibility in sample size planning for the MindSpaceOne 2.0 trial, supporting the rigorous evaluation of self-administered hypnosis and essential oil-based interventions on mental health.
